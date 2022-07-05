@@ -88,7 +88,7 @@ I'm a fourth-year Ph.D. student at the Department of Computer Science and Engine
   [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8215530)]
   
  
-- **Deep similarity-based batch mode active learning with exploration-exploitation.**
+- **Measuring patient similarities via a deep architecture with medical concept embedding.**
   <br>
   Zihao Zhu, **Changchang Yin**, Buyue Qian, Yu Cheng, Jishang Wei, Fei Wang
   <br> 
