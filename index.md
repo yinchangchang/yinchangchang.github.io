@@ -58,7 +58,45 @@ I'm a fourth-year Ph.D. student at the Department of Computer Science and Engine
   ACM SIGKDD Conference on Knowledge Discovery and Data Mining. **KDD 2020**. (Acceptance rate: 216/1279 = 16.9%, research track)
   <br>
   [[Paper](https://www.medrxiv.org/content/10.1101/2020.07.26.20162214v1.full.pdf)] [[Code](https://github.com/yinchangchang/TAME)] [[Video](https://www.youtube.com/watch?v=XdLOTXL5kCo)]
+  
+
  
+- **Domain knowledge guided deep learning with electronic health records**
+  <br>
+  **Changchang Yin**, Rongjian Zhao, Buyue Qian, Xin Lv, Ping Zhang.
+  <br> 
+  IEEE International Conference on Data Mining, **ICDM 2019** (Acceptance rate: 95/1046 = 9.1%, regular paper, oral presentation)
+  <br>
+  [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8970777)] [[Code](https://github.com/yinchangchang/DG-RNN)]
+  
+  
+- **Automatic generation of medical imaging diagnostic report with hierarchical recurrent neural network.**
+  <br>
+  **Changchang Yin**, Buyue Qian, Xianli Zhang, Yang Li, Qinghua Zheng.
+  <br> 
+  IEEE International Conference on Data Mining, **ICDM 2019** (Acceptance rate: 95/1046 = 9.1%, regular paper, oral presentation)
+  <br>
+  [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8970668)]
+  
+  
+- **Deep similarity-based batch mode active learning with exploration-exploitation.**
+  <br>
+  **Changchang Yin**, Buyue Qian, Shilei Cao, Xiaoyu Li, Jishang Wei, Qinghua Zheng, Ian Davidson
+  <br> 
+  IEEE International Conference on Data Mining, **ICDM 2017** (Regular paper, oral presentation)
+  <br>
+  [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8215530)]
+  
+ 
+- **Deep similarity-based batch mode active learning with exploration-exploitation.**
+  <br>
+  Zihao Zhu, **Changchang Yin**, Buyue Qian, Yu Cheng, Jishang Wei, Fei Wang
+  <br> 
+  IEEE International Conference on Data Mining, **ICDM 2016** (Regular paper, oral presentation)
+  <br>
+  [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7837899)]
+  
+  
 
  
 ## Services
