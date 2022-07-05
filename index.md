@@ -2,49 +2,32 @@
 layout: homepage
 ---
 
-## About Me
+## Short Biography [<a href="https://yinchangchang.github.io/yinchangchang-CV.pdf" target="_blank">CV</a>]
 
-I am a Ph.D. student at ...
+I'm a fourth-year Ph.D. student at the Department of Computer Science and Engineering, The Ohio State University (OSU). I'm fortunately working with Prof. [Ping Zhang](https://web.cse.ohio-state.edu/~zhang.10631/) in AIMed (Artificial Intelligence in Medicine) Lab. My research interests lie in data mining, machine learning and their application to trustworthy AI (e.g., fairness and causal inference), computational medicine (e.g., predictive modeling, patient subtyping and medical imaging).
 
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 ## Publications
-
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+  
+- **Estimating Individual Treatment Effects with Time-Varying Confounders**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  Ruoqi Liu, **Changchang Yin**, Ping Zhang
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  IEEE International Conference on Data Mining. **ICDM 2020**. (Acceptance rate: 91/930 = 9.8%, regular paper, oral presentation)
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
-
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+  [[Paper](https://arxiv.org/abs/2008.13620)] [[Code](https://github.com/ruoqi-liu/DSW)]
+ 
+- **Identifying sepsis subphenotypes via time-aware multi-modal auto-encoder**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  **Changchang Yin**, Ruoqi Liu, Dongdong Zhang, Ping Zhang
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining. **KDD 2020**. (Acceptance rate: 216/1279 = 16.9%, research track)
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
-
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
-
+  [[Paper](https://www.medrxiv.org/content/10.1101/2020.07.26.20162214v1.full.pdf)] [[Code](https://github.com/yinchangchang/TAME)] [[Video](https://www.youtube.com/watch?v=XdLOTXL5kCo)]
+ 
 ## Services
 
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+- Conference reviewer: KDD, AMIA
+- Journal reviewer:JMIR, JBHI, NCAA, BMC Medical Informatics and Decision Making
+- Conference sub reviewer: ICML, NeurIPS, AAAI, IJCAI, ICML, ICDM, SDM
+- Journal sub reviewer: Nature Communications, Nature Machine Intelligence, Patterns, BMC Bioinformatics
