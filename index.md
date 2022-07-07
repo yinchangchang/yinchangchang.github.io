@@ -25,7 +25,26 @@ I'm a fourth-year Ph.D. student at the Department of Computer Science and Engine
   ACM SIGKDD Conference on Knowledge Discovery and Data Mining. **KDD 2022**. (Acceptance rate: 197/753 = 25.9%, applied science track)
   <br>
   [[Paper](https://www.medrxiv.org/content/medrxiv/early/2022/05/21/2022.05.19.22275305.full.pdf)] [[Code](https://github.com/yinchangchang/CAT-LSTM)]
+  
+ 
+  
+- **Cardiac complication risk profiling for cancer survivors via multi-view multi-task learning**
+  <br>
+  Thai-Hoang Pham, **Changchang Yin**, Laxmi Mehta, Xueru Zhang, Ping Zhang
+  <br>
+  IEEE International Conference on Data Mining, **ICDM 2021** (Acceptance rate: 98/990 = 9.9%, regular paper, oral presentation. Selected as one of the best papers and invited to KAIS Journal Special Issue)
+  <br>
+  [[Paper](https://arxiv.org/pdf/2109.12276.pdf)] [[Code](https://github.com/pth1993/MuViTaNet)]  
    
+   
+   
+- **Temporal clustering with external memory network for disease progression modeling**
+  <br>
+ Zicong Zhang, **Changchang Yin**, Ping Zhang
+  <br>
+  IEEE International Conference on Data Mining, **ICDM 2021** (Acceptance rate: 98/990 = 9.9%, regular paper, oral presentation)
+  <br>
+  [[Paper](https://arxiv.org/pdf/2109.14147.pdf)] [[Code](https://github.com/Ericzhang1/TC-EMNet)]  
   
 - **Contrastive attention for automatic medical report generation**
   <br>
@@ -43,6 +62,52 @@ I'm a fourth-year Ph.D. student at the Department of Computer Science and Engine
   <br>
   [[Paper](https://www.nature.com/articles/s43588-021-00083-2)] 
   
+- **Brain atlas guided attention U-net for white matter hyperintensity segmentation**
+  <br>
+  Zicong Zhang, Kimerly Powell, **Changchang Yin**, Shilei Cao, Dani Gonzalez, Yousef Hannawi, Ping Zhang
+  <br>
+  American Medical Informatics Association Informatics Summit, **AMIA Summit 2021** (Buckeye AI, one of the top solutions for WMH Segmentation Challenge)
+  <br>
+  [[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8378613/)] [[Code](https://github.com/Ericzhang1/BAGAU-Net)]
+  
+  
+- **An interpretable deep-learning model for early prediction of sepsis in the emergency department**
+  <br>
+  Dongdong Zhang, **Changchang Yin**, Katherine Hunold, Xiaoqian Jiang, Jeffrey Caterino, Ping Zhang
+  <br>
+  Patterns 2:100196, 2021 (Buckeye AI, one of the winning teams for 2019 DII National Data Science Challenge)
+  <br>
+  [[Paper](https://www.cell.com/patterns/fulltext/S2666-3899(20)30266-X)] [[Code](https://github.com/yinchangchang/DII-Challenge)]
+  
+  
+  
+  
+- **An interpretable risk prediction model for healthcare with pattern attention**
+  <br>
+  Sundreen Asad Kamal, **Changchang Yin**, Buyue Qian, Ping Zhang
+  <br>
+  BMC Medical Informatics and Decision Making 20:307, 2020
+  <br>
+  [[Paper](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-01331-7)] [[Code](https://github.com/yinchangchang/PAVE)]
+  
+- **Combining structured and unstructured data for predictive models: a deep learning approach**
+  <br>
+  Dongdong Zhang, **Changchang Yin**, Jucheng Zeng, Xiaohui Yuan, Ping Zhang
+  <br>
+  BMC Medical Informatics and Decision Making 20:280, 2020
+  <br>
+  [[Paper](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-01297-6)] [[Code](https://github.com/onlyzdd/clinical-fusion)]
+  
+  
+- **Marrying medical domain knowledge with deep learning on electronic health records: a deep visual analytics approach**
+  <br>
+  Rui Li, **Changchang Yin**, Samuel Yang, Buyue Qian, Ping Zhang
+  <br>
+  Journal of Medical Internet Research (JMIR) 22(9):e20645, 2020 (Impact factor: 5.034. Featured on AMIA 2021 Year-in-Review)
+  <br>
+  [[Paper](https://www.jmir.org/2020/9/e20645/)] [[Code](https://github.com/DGViz/DGViz.github.io)]
+  
+  
 - **Estimating Individual Treatment Effects with Time-Varying Confounders**
   <br>
   Ruoqi Liu, **Changchang Yin**, Ping Zhang
@@ -50,6 +115,7 @@ I'm a fourth-year Ph.D. student at the Department of Computer Science and Engine
   IEEE International Conference on Data Mining. **ICDM 2020**. (Acceptance rate: 91/930 = 9.8%, regular paper, oral presentation)
   <br>
   [[Paper](https://arxiv.org/abs/2008.13620)] [[Code](https://github.com/ruoqi-liu/DSW)]
+  
  
 - **Identifying sepsis subphenotypes via time-aware multi-modal auto-encoder**
   <br>
