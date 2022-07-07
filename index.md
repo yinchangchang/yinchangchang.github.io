@@ -173,7 +173,7 @@ I'm a fourth-year Ph.D. student at the Department of Computer Science and Engine
   <br> 
   International Work-Conference on Bioinformatics and Biomedical Engineering
   <br>
-  [[Paper](https://www.researchgate.net/profile/Zhang-Xianli/publication/332771674_Classifying_Breast_Cancer_Histopathological_Images_Using_a_Robust_Artificial_Neural_Network_Architecture/links/5f14f8aaa6fdcc3ed718a686/Classifying-Breast-Cancer-Histopathological-Images-Using-a-Robust-Artificial-Neural-Network-Architecture.pdf)] 
+  [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-17938-0_19)] 
   
   
 - **Spatial attention lesion detection on automated breast ultrasound**
