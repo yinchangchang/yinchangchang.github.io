@@ -108,6 +108,16 @@ I'm a fourth-year Ph.D. student at the Department of Computer Science and Engine
   [[Paper](https://www.jmir.org/2020/9/e20645/)] [[Code](https://github.com/DGViz/DGViz.github.io)]
   
   
+  
+- **Study on automatic detection and classification of breast nodule using deep convolutional neural network system**
+  <br>
+  Feiqian Wang, Xiaotong Liu, Na Yuan, Buyue Qian, Litao Ruan, **Changchang Yin**, Ciping Jin
+  <br>
+  Journal of Thoracic Disease
+  <br>
+  [[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7578508/)] 
+  
+  
 - **Estimating Individual Treatment Effects with Time-Varying Confounders**
   <br>
   Ruoqi Liu, **Changchang Yin**, Ping Zhang
@@ -145,6 +155,38 @@ I'm a fourth-year Ph.D. student at the Department of Computer Science and Engine
   [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8970668)]
   
   
+  
+- **KnowRisk: an interpretable knowledge-guided model for disease risk prediction**
+  <br>
+  Xianli Zhang, Buyue Qian, Yang Li, **Changchang Yin**, Xudong Wang, Qinghua Zheng
+  <br> 
+  IEEE International Conference on Data Mining, **ICDM 2019** (Acceptance rate: 95/1046 = 9.1%, regular paper, oral presentation)
+  <br>
+  [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8970948)] 
+  
+  
+  
+  
+- **Classifying breast cancer histopathological images using a robust artificial neural network architecture**
+  <br>
+  Xianli Zhang, Yinbin Zhang, Buyue Qian, Xiaotong Liu, Xiaoyu Li, Xudong Wang, **Changchang Yin**, Xin Lv, Lingyun Song, Liang Wang
+  <br> 
+  International Work-Conference on Bioinformatics and Biomedical Engineering
+  <br>
+  [[Paper](https://www.researchgate.net/profile/Zhang-Xianli/publication/332771674_Classifying_Breast_Cancer_Histopathological_Images_Using_a_Robust_Artificial_Neural_Network_Architecture/links/5f14f8aaa6fdcc3ed718a686/Classifying-Breast-Cancer-Histopathological-Images-Using-a-Robust-Artificial-Neural-Network-Architecture.pdf)] 
+  
+  
+- **Spatial attention lesion detection on automated breast ultrasound**
+  <br>
+  Feiqian Wang, Xiaotong Liu, Buyue Qian, Litao Ruan, Rongjian Zhao, **Changchang Yin**, Na Yuan, Rong Wei, Xin Ma, Jishang Wei
+  <br> 
+  International Work-Conference on Bioinformatics and Biomedical Engineering
+  <br>
+  [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-17938-0_20)] 
+  
+  
+  
+  
 - **Deep similarity-based batch mode active learning with exploration-exploitation.**
   <br>
   **Changchang Yin**, Buyue Qian, Shilei Cao, Xiaoyu Li, Jishang Wei, Qinghua Zheng, Ian Davidson
@@ -152,6 +194,15 @@ I'm a fourth-year Ph.D. student at the Department of Computer Science and Engine
   IEEE International Conference on Data Mining, **ICDM 2017** (Regular paper, oral presentation)
   <br>
   [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8215530)]
+  
+  
+- **Knowledge guided short-text classification for healthcare applications**
+  <br>
+  Shilei Cao, Buyue Qian, **Changchang Yin**, Xiaoyu Li, Jishang Wei, Qinghua Zheng, Ian Davidson
+  <br> 
+  IEEE International Conference on Data Mining, **ICDM 2017** (Regular paper, oral presentation)
+  <br>
+  [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8215475)]
   
  
 - **Measuring patient similarities via a deep architecture with medical concept embedding.**
