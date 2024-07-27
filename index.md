@@ -4,10 +4,59 @@ layout: homepage
 
 ## Short Biography [<a href="https://yinchangchang.github.io/CY_CV.pdf" target="_blank">CV</a>]
 
-I'm a fourth-year Ph.D. student at the Department of Computer Science and Engineering, The Ohio State University (OSU). I'm fortunately working with Prof. [Ping Zhang](https://web.cse.ohio-state.edu/~zhang.10631/) in AIMed (Artificial Intelligence in Medicine) Lab. My research interests lie in data mining, machine learning and their application to trustworthy AI (e.g., fairness and causal inference), computational medicine (e.g., predictive modeling, patient subtyping and medical imaging).
+I'm a Ph.D. student at the Department of Computer Science and Engineering, The Ohio State University (OSU). I'm fortunately working with Prof. [Ping Zhang](https://web.cse.ohio-state.edu/~zhang.10631/) in AIMed (Artificial Intelligence in Medicine) Lab. My research interests lie in data mining, machine learning and their application to trustworthy AI (e.g., fairness and causal inference), computational medicine (e.g., predictive modeling, patient subtyping and medical imaging).
 
 
 ## Publications
+
+
+- **SepsisLab: Early sepsis prediction with uncertainty quantification and active sensing**
+  <br>
+  **Changchang Yin**, Pin-Yu Chen, Bingsheng Yao, Dakuo Wang, Jeffrey Caterino, Ping Zhang
+  <br>
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024
+  <br>
+  [[Paper](https://arxiv.org/pdf/2407.16999)]
+  
+- **Predictive modeling with temporal graphical representation on electronic health records**
+  <br>
+  Jiayuan Chen, **Changchang Yin**, Yuanlong Wang, Ping Zhang
+  <br>
+  International Joint Conference on Artificial Intelligence (IJCAI), 2024 (Main track, oral presentation)
+  <br>
+  [[Paper](https://arxiv.org/pdf/2405.03943)]
+  
+- **Rethinking human-AI collaboration in complex medical decision making: A case study in sepsis diagnosis**
+  <br>
+  Shao Zhang, Jianing Yu, Xuhai Xu, **Changchang Yin**, Yuxuan Lu, Bingsheng Yao, Melanie Tory, Lace M Padilla, Jeffrey Caterino, Ping Zhang, Dakuo Wang
+  <br>
+  ACM CHI Conference on Human Factors in Computing Systems (CHI), 2024 (Acceptance rate: 1060/4028 = 26.3%)
+  <br>
+  [[Paper](https://arxiv.org/pdf/2309.12368)] 
+
+- **Multimodal risk prediction with physiological signals, medical images and clinical notes**
+  <br>
+  Yuanlong Wang, **Changchang Yin**, Ping Zhang
+  <br>
+  Heliyon, 10:e26772, 2024
+  <br>
+  [[Paper](https://www.cell.com/heliyon/fulltext/S2405-8440(24)02803-2)] 
+
+- **Stable clinical risk prediction against distribution shift in electronic health records**
+  <br>
+  Seungyeon Lee, **Changchang Yin**, Ping Zhang
+  <br>
+  Patterns 4:100828, 2023 (Impact factor: 6.5)
+  <br>
+  [[Paper](https://www.cell.com/patterns/fulltext/S2666-3899(23)00197-6)] 
+
+- **A fair and interpretable network for clinical risk prediction: A regularized multi-view multi-task learning approach**
+  <br>
+  Thai-Hoang Pham, **Changchang Yin**, Laxmi Mehta, Xueru Zhang, Ping Zhang
+  <br>
+  Knowledge and Information Systems (KAIS) 65:1487–1521, 2023
+  <br>
+  [[Paper](https://link.springer.com/article/10.1007/s10115-022-01813-2)] 
 
 - **Deconfounding actor-critic network with policy adaptation for dynamic treatment regimes**
   <br>
