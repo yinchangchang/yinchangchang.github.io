@@ -5,43 +5,40 @@ layout: homepage
 ## Short Biography [<a href="https://yinchangchang.github.io/CY_CV.pdf" target="_blank">CV</a>]
 
 
-\item I am a research scientist in the Department of Biomedical Informatics at The Ohio State University (OSU).
+I am a research scientist in the Department of Biomedical Informatics at The Ohio State University (OSU).
 I received BS and MS in Computer Science and Technology from Xi'an Jiaotong University in 2016 and 2019, and PhD in Computer Science from Computer Science and Engineering (CSE), OSU, working with [Dr. Ping Zhang](https://www.pingzhang.net/).
-My research interests lie in data mining, machine learning, deep learning, and their application to trustworthy AI (e.g., causal inference, model interpretability, data privacy \& security, and model uncertainty estimation), and computational medicine (e.g., predictive modeling, patient subtyping, dynamic treatment regime learning, and medical imaging).
+My research interests lie in data mining, machine learning, deep learning, and their application to trustworthy AI (e.g., causal inference, model interpretability, data privacy & security, and model uncertainty estimation), and computational medicine (e.g., predictive modeling, patient subtyping, dynamic treatment regime learning, and medical imaging).
 
 [//]: # (My research findings &#40;including 8 first-author papers, 5 co-first-author papers, and 20+ co-author papers&#41; have been published at top-tier venues such as KDD, ICDM, AAAI, IJCAI, ACL-IJCNL, CHI, Nature Computational Science, and JMIR, achieving more than 3,600 citations.)
 
 ## Publications
 
 - **CardioAI: A multimodal AI-based system to support symptom monitoring and risk prediction of cancer treatment-induced cardiotoxicity**
-  <br>  
+  <br>
   Siyi Wu, Weidan Cao, Shihan Fu, Bingsheng Yao, Ziqi Yang, **Changchang Yin**, Varun Mishra, Daniel Addison, Ping Zhang, Dakuo Wang
-  <br>  
-  ACM CHI Conference on Human Factors in Computing Systems (**CHI**), 2025 (Acceptance rate: 1249/4976 = 25.1%)  
+  <br>
+  ACM CHI Conference on Human Factors in Computing Systems (**CHI**), 2025 (Acceptance rate: 1249/4976 = 25.1%) 
+  <br>[[Paper](https://arxiv.org/pdf/2410.04592)]
 
-- **SepsisCalc: Integrating clinical calculators into early sepsis prediction via dynamic temporal graph construction**
-  <br>  
+- **SepsisCalc: Integrating clinical calculators into early sepsis prediction via dynamic temporal graph construction**<br> 
   **Changchang Yin**, Shihan Fu, Bingsheng Yao, Thai-Hoang Pham, Weidan Cao, Dakuo Wang, Jeffrey Caterino, Ping Zhang
-  <br>  
-  ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2025  
+  <br>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2025  
+  <br>[[Paper](https://arxiv.org/pdf/2501.00190)]
 
 - **Comparison of machine learning models in predicting mental health sequelae following concussion in youth**
-  <br>  
-  Jin Peng, Jiayuan Chen, **Changchang Yin**, Ping Zhang, Jingzhen Yang
-  <br>  
-  American Medical Informatics Association Informatics Summit (**AMIA** Summit), 2025  
+  <br>Jin Peng, Jiayuan Chen, **Changchang Yin**, Ping Zhang, Jingzhen Yang
+  <br>American Medical Informatics Association Informatics Summit (**AMIA** Summit), 2025  
+  <br>[[Paper](https://www.medrxiv.org/content/10.1101/2025.01.02.24319733v1.full.pdf)]
 
 - **A proactive agent collaborative framework for zero-shot multimodal medical reasoning**
-  <br>  
-  Zishan Gu, Fenglin Liu, Jiayuan Chen, **Changchang Yin**, Ping Zhang
-  <br>  
-  Advanced Intelligent Systems, 2025 (Impact factor: 6.8)  
+  <br>Zishan Gu, Fenglin Liu, Jiayuan Chen, **Changchang Yin**, Ping Zhang
+  <br>Advanced Intelligent Systems, 2025 (Impact factor: 6.8)  
+  <br>[[Paper](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202400840)]
 
 - **Open-set heterogeneous domain adaptation: Theoretical analysis and algorithm**
-  <br>  
-  Thai-Hoang Pham, Yuanlong Wang, **Changchang Yin**, Xueru Zhang, Ping Zhang
-  <br>  
-  AAAI Conference on Artificial Intelligence (**AAAI**), 2025 (Acceptance rate: 3032/12957 = 23.4%, main track)  
+  <br>Thai-Hoang Pham, Yuanlong Wang, **Changchang Yin**, Xueru Zhang, Ping Zhang
+  <br>AAAI Conference on Artificial Intelligence (**AAAI**), 2025 (Acceptance rate: 3032/12957 = 23.4%, main track)  
+  <br>[[Paper](https://arxiv.org/pdf/2412.13036)]  
 
 
 - **SepsisLab: Early sepsis prediction with uncertainty quantification and active sensing**
