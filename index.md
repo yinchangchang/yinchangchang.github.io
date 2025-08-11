@@ -5,7 +5,7 @@ layout: homepage
 ## Short Biography [<a href="https://yinchangchang.github.io/CY_CV.pdf" target="_blank">CV</a>]
 
 
-I am a research scientist in the Department of Biomedical Informatics at The Ohio State University (OSU).
+I am a Research Scientist in the Department of Biomedical Informatics at The Ohio State University (OSU).
 I received BS and MS in Computer Science and Technology from Xi'an Jiaotong University in 2016 and 2019, and PhD in Computer Science from Computer Science and Engineering (CSE), OSU, working with [Dr. Ping Zhang](https://www.pingzhang.net/).
 My research interests lie in data mining, machine learning, deep learning, and their application to trustworthy AI (e.g., causal inference, model interpretability, data privacy & security, and model uncertainty estimation), and computational medicine (e.g., predictive modeling, patient subtyping, dynamic treatment regime learning, and medical imaging).
 
@@ -38,7 +38,7 @@ My research interests lie in data mining, machine learning, deep learning, and t
 - **Open-set heterogeneous domain adaptation: Theoretical analysis and algorithm**
   <br>Thai-Hoang Pham, Yuanlong Wang, **Changchang Yin**, Xueru Zhang, Ping Zhang
   <br>AAAI Conference on Artificial Intelligence (**AAAI**), 2025 (Acceptance rate: 3032/12957 = 23.4%, main track)  
-  <br>[[Paper](https://arxiv.org/pdf/2412.13036)]  
+  [[Paper](https://arxiv.org/pdf/2412.13036)]  
 
 
 - **SepsisLab: Early sepsis prediction with uncertainty quantification and active sensing**
