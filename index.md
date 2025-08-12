@@ -293,7 +293,11 @@ My research interests lie in data mining, machine learning, deep learning, and t
   <br>
   [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7837899)]
   
-  
+
+## Teaching
+
+- Autumn 2025: BMI5553-10: Predictive Analytics in Electronic Health Records
+[[Syllabus](src/BMI5553-Syllabus.pdf)] 
 
  
 ## Services
